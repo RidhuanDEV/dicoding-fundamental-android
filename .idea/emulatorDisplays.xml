@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EmulatorDisplays">
+    <option name="displayStateByAvdFolder">
+      <map>
+        <entry key="C:\Users\Ridhuan\.android\avd\HP_pRO_Player.avd">
+          <value>
+            <MultiDisplayState>
+              <option name="displayDescriptors">
+                <list>
+                  <DisplayDescriptor>
+                    <option name="height" value="2541" />
+                    <option name="width" value="1200" />
+                  </DisplayDescriptor>
+                  <DisplayDescriptor>
+                    <option name="displayId" value="1" />
+                    <option name="height" value="620" />
+                    <option name="width" value="480" />
+                  </DisplayDescriptor>
+                  <DisplayDescriptor>
+                    <option name="displayId" value="2" />
+                    <option name="height" value="600" />
+                    <option name="width" value="480" />
+                  </DisplayDescriptor>
+                </list>
+              </option>
+              <option name="panelState">
+                <PanelState>
+                  <option name="splitPanel">
+                    <SplitPanelState>
+                      <option name="proportion" value="0.9771167039871216" />
+                      <option name="firstComponent">
+                        <PanelState>
+                          <option name="splitPanel">
+                            <SplitPanelState>
+                              <option name="proportion" value="0.9976525902748108" />
+                              <option name="firstComponent">
+                                <PanelState>
+                                  <option name="displayId" value="0" />
+                                </PanelState>
+                              </option>
+                              <option name="secondComponent">
+                                <PanelState>
+                                  <option name="displayId" value="1" />
+                                </PanelState>
+                              </option>
+                            </SplitPanelState>
+                          </option>
+                        </PanelState>
+                      </option>
+                      <option name="secondComponent">
+                        <PanelState>
+                          <option name="displayId" value="2" />
+                        </PanelState>
+                      </option>
+                    </SplitPanelState>
+                  </option>
+                </PanelState>
+              </option>
+            </MultiDisplayState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

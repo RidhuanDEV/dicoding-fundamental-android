@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyDicodingEvent</string>
+    <string name="event_name">Nama Event</string>
+    <string name="event_image">Event Image</string>
+    <string name="event_organizer">Event Organizer: %1$s</string>
+    <string name="event_time">Event Time: %1$s</string>
+    <string name="event_quota">Remaining Quota: %1$d</string>
+    <string name="title_upcoming">Upcoming Event</string>
+    <string name="title_finished">Finished Event</string>
+    <string name="open_event_link">Check Event</string>
+    <string name="title_bookmark">bookmark event</string>
+    <string name="add_to_favorites">favorite</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="settings">Setting</string>
+    <string name="event_description">Event Description:\n %1$s</string>
+</resources>

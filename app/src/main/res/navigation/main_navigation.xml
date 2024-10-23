@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/upcomingEventFragment">
+
+    <fragment
+        android:id="@+id/upcomingEventFragment"
+        android:name="com.dicoding.mydicodingevent.fragment.UpcomingEventFragment"
+        android:label="Upcoming Events" />
+
+    <fragment
+        android:id="@+id/finishedEventFragment"
+        android:name="com.dicoding.mydicodingevent.fragment.FinishedEventFragment"
+        android:label="Finished Events" />
+    <fragment
+        android:id="@+id/eventFragment"
+        android:name="com.dicoding.mydicodingevent.fragment.EventFragment"
+        android:label="Bookmark Events" />
+    <fragment
+        android:id="@+id/darkModeFragment"
+        android:name="com.dicoding.mydicodingevent.fragment.DarkModeFragment"
+        android:label="fragment_dark_mode" />
+</navigation>
